@@ -33,7 +33,7 @@ type BuildingColorExpression = [
   string,
 ]
 
-const mapStyle = "https://tiles.stadiamaps.com/styles/osm_bright.json"
+const mapStyle = "https://tiles.openfreemap.org/styles/bright"
 const buildingLayerIds = ["building-footprints", "3d-buildings", "building-outline"] as const
 const explicitBuildingSourceId = "openfreemap-3d"
 
