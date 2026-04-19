@@ -1,0 +1,191 @@
+[
+  {
+    "zoneId": "central-station",
+    "name": "Central Station",
+    "cluster_id": 0,
+    "cluster_label": "Balanced lifestyle precinct",
+    "cluster_summary": "Mixed-use catchment with stable trade support and versatile popup potential."
+  },
+  {
+    "zoneId": "town-hall",
+    "name": "Town Hall",
+    "cluster_id": 1,
+    "cluster_label": "CBD commuter surge",
+    "cluster_summary": "High-throughput urban core with dense trade and strong all-day movement."
+  },
+  {
+    "zoneId": "wynyard",
+    "name": "Wynyard",
+    "cluster_id": 2,
+    "cluster_label": "Balanced lifestyle precinct",
+    "cluster_summary": "Mixed-use catchment with stable trade support and versatile popup potential."
+  },
+  {
+    "zoneId": "circular-quay",
+    "name": "Circular Quay",
+    "cluster_id": 3,
+    "cluster_label": "Balanced lifestyle precinct",
+    "cluster_summary": "Mixed-use catchment with stable trade support and versatile popup potential."
+  },
+  {
+    "zoneId": "martin-place",
+    "name": "Martin Place",
+    "cluster_id": 2,
+    "cluster_label": "Balanced lifestyle precinct",
+    "cluster_summary": "Mixed-use catchment with stable trade support and versatile popup potential."
+  },
+  {
+    "zoneId": "barangaroo",
+    "name": "Barangaroo",
+    "cluster_id": 0,
+    "cluster_label": "Balanced lifestyle precinct",
+    "cluster_summary": "Mixed-use catchment with stable trade support and versatile popup potential."
+  },
+  {
+    "zoneId": "parramatta",
+    "name": "Parramatta",
+    "cluster_id": 0,
+    "cluster_label": "Balanced lifestyle precinct",
+    "cluster_summary": "Mixed-use catchment with stable trade support and versatile popup potential."
+  },
+  {
+    "zoneId": "westmead",
+    "name": "Westmead",
+    "cluster_id": 0,
+    "cluster_label": "Balanced lifestyle precinct",
+    "cluster_summary": "Mixed-use catchment with stable trade support and versatile popup potential."
+  },
+  {
+    "zoneId": "chatswood",
+    "name": "Chatswood",
+    "cluster_id": 0,
+    "cluster_label": "Balanced lifestyle precinct",
+    "cluster_summary": "Mixed-use catchment with stable trade support and versatile popup potential."
+  },
+  {
+    "zoneId": "north-sydney",
+    "name": "North Sydney",
+    "cluster_id": 0,
+    "cluster_label": "Balanced lifestyle precinct",
+    "cluster_summary": "Mixed-use catchment with stable trade support and versatile popup potential."
+  },
+  {
+    "zoneId": "st-leonards",
+    "name": "St Leonards",
+    "cluster_id": 0,
+    "cluster_label": "Balanced lifestyle precinct",
+    "cluster_summary": "Mixed-use catchment with stable trade support and versatile popup potential."
+  },
+  {
+    "zoneId": "macquarie-park",
+    "name": "Macquarie Park",
+    "cluster_id": 0,
+    "cluster_label": "Balanced lifestyle precinct",
+    "cluster_summary": "Mixed-use catchment with stable trade support and versatile popup potential."
+  },
+  {
+    "zoneId": "redfern",
+    "name": "Redfern",
+    "cluster_id": 0,
+    "cluster_label": "Balanced lifestyle precinct",
+    "cluster_summary": "Mixed-use catchment with stable trade support and versatile popup potential."
+  },
+  {
+    "zoneId": "surry-hills",
+    "name": "Surry Hills",
+    "cluster_id": 0,
+    "cluster_label": "Balanced lifestyle precinct",
+    "cluster_summary": "Mixed-use catchment with stable trade support and versatile popup potential."
+  },
+  {
+    "zoneId": "haymarket",
+    "name": "Haymarket",
+    "cluster_id": 0,
+    "cluster_label": "Balanced lifestyle precinct",
+    "cluster_summary": "Mixed-use catchment with stable trade support and versatile popup potential."
+  },
+  {
+    "zoneId": "darling-harbour",
+    "name": "Darling Harbour",
+    "cluster_id": 0,
+    "cluster_label": "Balanced lifestyle precinct",
+    "cluster_summary": "Mixed-use catchment with stable trade support and versatile popup potential."
+  },
+  {
+    "zoneId": "pyrmont",
+    "name": "Pyrmont",
+    "cluster_id": 0,
+    "cluster_label": "Balanced lifestyle precinct",
+    "cluster_summary": "Mixed-use catchment with stable trade support and versatile popup potential."
+  },
+  {
+    "zoneId": "green-square",
+    "name": "Green Square",
+    "cluster_id": 0,
+    "cluster_label": "Balanced lifestyle precinct",
+    "cluster_summary": "Mixed-use catchment with stable trade support and versatile popup potential."
+  },
+  {
+    "zoneId": "mascot",
+    "name": "Mascot",
+    "cluster_id": 0,
+    "cluster_label": "Balanced lifestyle precinct",
+    "cluster_summary": "Mixed-use catchment with stable trade support and versatile popup potential."
+  },
+  {
+    "zoneId": "newtown",
+    "name": "Newtown",
+    "cluster_id": 0,
+    "cluster_label": "Balanced lifestyle precinct",
+    "cluster_summary": "Mixed-use catchment with stable trade support and versatile popup potential."
+  },
+  {
+    "zoneId": "marrickville",
+    "name": "Marrickville",
+    "cluster_id": 0,
+    "cluster_label": "Balanced lifestyle precinct",
+    "cluster_summary": "Mixed-use catchment with stable trade support and versatile popup potential."
+  },
+  {
+    "zoneId": "bondi-junction",
+    "name": "Bondi Junction",
+    "cluster_id": 0,
+    "cluster_label": "Balanced lifestyle precinct",
+    "cluster_summary": "Mixed-use catchment with stable trade support and versatile popup potential."
+  },
+  {
+    "zoneId": "burwood",
+    "name": "Burwood",
+    "cluster_id": 0,
+    "cluster_label": "Balanced lifestyle precinct",
+    "cluster_summary": "Mixed-use catchment with stable trade support and versatile popup potential."
+  },
+  {
+    "zoneId": "strathfield",
+    "name": "Strathfield",
+    "cluster_id": 0,
+    "cluster_label": "Balanced lifestyle precinct",
+    "cluster_summary": "Mixed-use catchment with stable trade support and versatile popup potential."
+  },
+  {
+    "zoneId": "rhodes",
+    "name": "Rhodes",
+    "cluster_id": 0,
+    "cluster_label": "Balanced lifestyle precinct",
+    "cluster_summary": "Mixed-use catchment with stable trade support and versatile popup potential."
+  },
+  {
+    "zoneId": "hurstville",
+    "name": "Hurstville",
+    "cluster_id": 0,
+    "cluster_label": "Balanced lifestyle precinct",
+    "cluster_summary": "Mixed-use catchment with stable trade support and versatile popup potential."
+  },
+  {
+    "zoneId": "leichhardt",
+    "name": "Leichhardt",
+    "cluster_id": 0,
+    "cluster_label": "Balanced lifestyle precinct",
+    "cluster_summary": "Mixed-use catchment with stable trade support and versatile popup potential."
+  }
+]

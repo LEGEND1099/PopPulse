@@ -1,0 +1,1899 @@
+[
+  {
+    "zoneId": "central-station",
+    "suburb": "Haymarket",
+    "storeCount": 659,
+    "coffeeCount": 17,
+    "foodCount": 114,
+    "retailCount": 40,
+    "topSectors": [
+      {
+        "sector": "dine-in restaurant",
+        "count": 78
+      },
+      {
+        "sector": "cafe & dessert",
+        "count": 15
+      },
+      {
+        "sector": "fashion & accessories",
+        "count": 13
+      },
+      {
+        "sector": "beauty salon / barber",
+        "count": 11
+      }
+    ],
+    "topSubsectors": [
+      {
+        "sector": "restaurant",
+        "count": 46
+      },
+      {
+        "sector": "thai restaurant",
+        "count": 19
+      },
+      {
+        "sector": "corporate office",
+        "count": 17
+      },
+      {
+        "sector": "beauty salon",
+        "count": 15
+      },
+      {
+        "sector": "chinese restaurant",
+        "count": 12
+      },
+      {
+        "sector": "cafe",
+        "count": 10
+      },
+      {
+        "sector": "korean restaurant",
+        "count": 10
+      },
+      {
+        "sector": "massage therapist",
+        "count": 10
+      },
+      {
+        "sector": "shop",
+        "count": 9
+      }
+    ],
+    "insightBadge": "Balanced precinct",
+    "catchmentStoreCount": 1529,
+    "catchmentConfidence": 0.8,
+    "catchmentMethod": "text_to_zone_catchment",
+    "clusterId": 0,
+    "clusterLabel": "Balanced lifestyle precinct",
+    "clusterSummary": "Mixed-use catchment with stable trade support and versatile popup potential."
+  },
+  {
+    "zoneId": "town-hall",
+    "suburb": "Sydney CBD",
+    "storeCount": 6875,
+    "coffeeCount": 172,
+    "foodCount": 906,
+    "retailCount": 1066,
+    "topSectors": [
+      {
+        "sector": "dine-in restaurant",
+        "count": 519
+      },
+      {
+        "sector": "electronics & appliances",
+        "count": 430
+      },
+      {
+        "sector": "grocery / convenience store",
+        "count": 248
+      },
+      {
+        "sector": "fashion & accessories",
+        "count": 182
+      }
+    ],
+    "topSubsectors": [
+      {
+        "sector": "corporate office",
+        "count": 539
+      },
+      {
+        "sector": "restaurant",
+        "count": 333
+      },
+      {
+        "sector": "cafe",
+        "count": 194
+      },
+      {
+        "sector": "jewelry store",
+        "count": 117
+      },
+      {
+        "sector": "butcher",
+        "count": 104
+      },
+      {
+        "sector": "groceries",
+        "count": 101
+      },
+      {
+        "sector": "restaurants",
+        "count": 95
+      },
+      {
+        "sector": "computer consulting",
+        "count": 92
+      },
+      {
+        "sector": "computer, pc software",
+        "count": 85
+      }
+    ],
+    "insightBadge": "Dense store cluster",
+    "catchmentStoreCount": 8263,
+    "catchmentConfidence": 0.8,
+    "catchmentMethod": "text_to_zone_catchment",
+    "clusterId": 1,
+    "clusterLabel": "CBD commuter surge",
+    "clusterSummary": "High-throughput urban core with dense trade and strong all-day movement."
+  },
+  {
+    "zoneId": "wynyard",
+    "suburb": "Sydney CBD",
+    "storeCount": 6875,
+    "coffeeCount": 172,
+    "foodCount": 906,
+    "retailCount": 1066,
+    "topSectors": [
+      {
+        "sector": "dine-in restaurant",
+        "count": 519
+      },
+      {
+        "sector": "electronics & appliances",
+        "count": 430
+      },
+      {
+        "sector": "grocery / convenience store",
+        "count": 248
+      },
+      {
+        "sector": "fashion & accessories",
+        "count": 182
+      }
+    ],
+    "topSubsectors": [
+      {
+        "sector": "corporate office",
+        "count": 539
+      },
+      {
+        "sector": "restaurant",
+        "count": 333
+      },
+      {
+        "sector": "cafe",
+        "count": 194
+      },
+      {
+        "sector": "jewelry store",
+        "count": 117
+      },
+      {
+        "sector": "butcher",
+        "count": 104
+      },
+      {
+        "sector": "groceries",
+        "count": 101
+      },
+      {
+        "sector": "restaurants",
+        "count": 95
+      },
+      {
+        "sector": "computer consulting",
+        "count": 92
+      },
+      {
+        "sector": "computer, pc software",
+        "count": 85
+      }
+    ],
+    "insightBadge": "Dense store cluster",
+    "catchmentStoreCount": 762,
+    "catchmentConfidence": 0.7,
+    "catchmentMethod": "text_to_zone_catchment",
+    "clusterId": 2,
+    "clusterLabel": "Balanced lifestyle precinct",
+    "clusterSummary": "Mixed-use catchment with stable trade support and versatile popup potential."
+  },
+  {
+    "zoneId": "circular-quay",
+    "suburb": "Circular Quay",
+    "storeCount": 6875,
+    "coffeeCount": 172,
+    "foodCount": 906,
+    "retailCount": 1066,
+    "topSectors": [
+      {
+        "sector": "dine-in restaurant",
+        "count": 519
+      },
+      {
+        "sector": "electronics & appliances",
+        "count": 430
+      },
+      {
+        "sector": "grocery / convenience store",
+        "count": 248
+      },
+      {
+        "sector": "fashion & accessories",
+        "count": 182
+      }
+    ],
+    "topSubsectors": [
+      {
+        "sector": "corporate office",
+        "count": 539
+      },
+      {
+        "sector": "restaurant",
+        "count": 333
+      },
+      {
+        "sector": "cafe",
+        "count": 194
+      },
+      {
+        "sector": "jewelry store",
+        "count": 117
+      },
+      {
+        "sector": "butcher",
+        "count": 104
+      },
+      {
+        "sector": "groceries",
+        "count": 101
+      },
+      {
+        "sector": "restaurants",
+        "count": 95
+      },
+      {
+        "sector": "computer consulting",
+        "count": 92
+      },
+      {
+        "sector": "computer, pc software",
+        "count": 85
+      }
+    ],
+    "insightBadge": "Dense store cluster",
+    "catchmentStoreCount": 839,
+    "catchmentConfidence": 0.7,
+    "catchmentMethod": "text_to_zone_catchment",
+    "clusterId": 3,
+    "clusterLabel": "Balanced lifestyle precinct",
+    "clusterSummary": "Mixed-use catchment with stable trade support and versatile popup potential."
+  },
+  {
+    "zoneId": "martin-place",
+    "suburb": "Sydney CBD",
+    "storeCount": 6875,
+    "coffeeCount": 172,
+    "foodCount": 906,
+    "retailCount": 1066,
+    "topSectors": [
+      {
+        "sector": "dine-in restaurant",
+        "count": 519
+      },
+      {
+        "sector": "electronics & appliances",
+        "count": 430
+      },
+      {
+        "sector": "grocery / convenience store",
+        "count": 248
+      },
+      {
+        "sector": "fashion & accessories",
+        "count": 182
+      }
+    ],
+    "topSubsectors": [
+      {
+        "sector": "corporate office",
+        "count": 539
+      },
+      {
+        "sector": "restaurant",
+        "count": 333
+      },
+      {
+        "sector": "cafe",
+        "count": 194
+      },
+      {
+        "sector": "jewelry store",
+        "count": 117
+      },
+      {
+        "sector": "butcher",
+        "count": 104
+      },
+      {
+        "sector": "groceries",
+        "count": 101
+      },
+      {
+        "sector": "restaurants",
+        "count": 95
+      },
+      {
+        "sector": "computer consulting",
+        "count": 92
+      },
+      {
+        "sector": "computer, pc software",
+        "count": 85
+      }
+    ],
+    "insightBadge": "Dense store cluster",
+    "catchmentStoreCount": 376,
+    "catchmentConfidence": 0.7,
+    "catchmentMethod": "text_to_zone_catchment",
+    "clusterId": 2,
+    "clusterLabel": "Balanced lifestyle precinct",
+    "clusterSummary": "Mixed-use catchment with stable trade support and versatile popup potential."
+  },
+  {
+    "zoneId": "barangaroo",
+    "suburb": "Barangaroo",
+    "storeCount": 136,
+    "coffeeCount": 4,
+    "foodCount": 8,
+    "retailCount": 5,
+    "topSectors": [
+      {
+        "sector": "dine-in restaurant",
+        "count": 4
+      },
+      {
+        "sector": "cafa & dessert",
+        "count": 3
+      },
+      {
+        "sector": "international restaurant",
+        "count": 3
+      },
+      {
+        "sector": "fashion & accessories",
+        "count": 2
+      }
+    ],
+    "topSubsectors": [
+      {
+        "sector": "corporate office",
+        "count": 30
+      },
+      {
+        "sector": "software company",
+        "count": 15
+      },
+      {
+        "sector": "personal trainer",
+        "count": 3
+      },
+      {
+        "sector": "sandwich shop",
+        "count": 3
+      },
+      {
+        "sector": "bar",
+        "count": 3
+      },
+      {
+        "sector": "legal services",
+        "count": 3
+      },
+      {
+        "sector": "association / organization",
+        "count": 3
+      },
+      {
+        "sector": "coffee shop",
+        "count": 3
+      },
+      {
+        "sector": "french restaurant",
+        "count": 2
+      },
+      {
+        "sector": "computer support and services",
+        "count": 2
+      }
+    ],
+    "insightBadge": "Emerging pocket",
+    "catchmentStoreCount": 598,
+    "catchmentConfidence": 0.81,
+    "catchmentMethod": "text_to_zone_catchment",
+    "clusterId": 0,
+    "clusterLabel": "Balanced lifestyle precinct",
+    "clusterSummary": "Mixed-use catchment with stable trade support and versatile popup potential."
+  },
+  {
+    "zoneId": "parramatta",
+    "suburb": "Parramatta",
+    "storeCount": 1546,
+    "coffeeCount": 28,
+    "foodCount": 215,
+    "retailCount": 95,
+    "topSectors": [
+      {
+        "sector": "dine-in restaurant",
+        "count": 88
+      },
+      {
+        "sector": "fashion & accessories",
+        "count": 41
+      },
+      {
+        "sector": "takeaways",
+        "count": 34
+      },
+      {
+        "sector": "restaurants & bistros",
+        "count": 31
+      }
+    ],
+    "topSubsectors": [
+      {
+        "sector": "restaurant",
+        "count": 97
+      },
+      {
+        "sector": "corporate office",
+        "count": 37
+      },
+      {
+        "sector": "cafe",
+        "count": 32
+      },
+      {
+        "sector": "furniture store",
+        "count": 28
+      },
+      {
+        "sector": "clothing store",
+        "count": 26
+      },
+      {
+        "sector": "beauty salon",
+        "count": 19
+      },
+      {
+        "sector": "software company",
+        "count": 18
+      },
+      {
+        "sector": "hair salon",
+        "count": 15
+      },
+      {
+        "sector": "food",
+        "count": 14
+      }
+    ],
+    "insightBadge": "Dense store cluster",
+    "catchmentStoreCount": 3192,
+    "catchmentConfidence": 0.76,
+    "catchmentMethod": "text_to_zone_catchment",
+    "clusterId": 0,
+    "clusterLabel": "Balanced lifestyle precinct",
+    "clusterSummary": "Mixed-use catchment with stable trade support and versatile popup potential."
+  },
+  {
+    "zoneId": "westmead",
+    "suburb": "Westmead",
+    "storeCount": 177,
+    "coffeeCount": 6,
+    "foodCount": 17,
+    "retailCount": 4,
+    "topSectors": [
+      {
+        "sector": "dine-in restaurant",
+        "count": 8
+      },
+      {
+        "sector": "quick-service / takeaway",
+        "count": 3
+      },
+      {
+        "sector": "cafe & dessert",
+        "count": 3
+      },
+      {
+        "sector": "florists",
+        "count": 3
+      }
+    ],
+    "topSubsectors": [
+      {
+        "sector": "restaurant",
+        "count": 7
+      },
+      {
+        "sector": "cafe",
+        "count": 5
+      },
+      {
+        "sector": "barber shop",
+        "count": 3
+      },
+      {
+        "sector": "pathologist",
+        "count": 3
+      },
+      {
+        "sector": "physical therapist",
+        "count": 3
+      },
+      {
+        "sector": "software company",
+        "count": 3
+      },
+      {
+        "sector": "dental clinic",
+        "count": 2
+      },
+      {
+        "sector": "counselor",
+        "count": 2
+      },
+      {
+        "sector": "dance school",
+        "count": 2
+      }
+    ],
+    "insightBadge": "Emerging pocket",
+    "catchmentStoreCount": 234,
+    "catchmentConfidence": 0.79,
+    "catchmentMethod": "text_to_zone_catchment",
+    "clusterId": 0,
+    "clusterLabel": "Balanced lifestyle precinct",
+    "clusterSummary": "Mixed-use catchment with stable trade support and versatile popup potential."
+  },
+  {
+    "zoneId": "chatswood",
+    "suburb": "Chatswood",
+    "storeCount": 1206,
+    "coffeeCount": 32,
+    "foodCount": 135,
+    "retailCount": 124,
+    "topSectors": [
+      {
+        "sector": "dine-in restaurant",
+        "count": 80
+      },
+      {
+        "sector": "fashion & accessories",
+        "count": 55
+      },
+      {
+        "sector": "grocery / convenience store",
+        "count": 30
+      },
+      {
+        "sector": "take away food, pizza, fish & chips shops",
+        "count": 29
+      }
+    ],
+    "topSubsectors": [
+      {
+        "sector": "restaurant",
+        "count": 56
+      },
+      {
+        "sector": "corporate office",
+        "count": 51
+      },
+      {
+        "sector": "clothing store",
+        "count": 37
+      },
+      {
+        "sector": "beauty salon",
+        "count": 24
+      },
+      {
+        "sector": "market stall",
+        "count": 22
+      },
+      {
+        "sector": "jewelry store",
+        "count": 15
+      },
+      {
+        "sector": "massage therapist",
+        "count": 15
+      },
+      {
+        "sector": "acupuncture clinic",
+        "count": 13
+      },
+      {
+        "sector": "software company",
+        "count": 13
+      }
+    ],
+    "insightBadge": "Dense store cluster",
+    "catchmentStoreCount": 1565,
+    "catchmentConfidence": 0.79,
+    "catchmentMethod": "text_to_zone_catchment",
+    "clusterId": 0,
+    "clusterLabel": "Balanced lifestyle precinct",
+    "clusterSummary": "Mixed-use catchment with stable trade support and versatile popup potential."
+  },
+  {
+    "zoneId": "north-sydney",
+    "suburb": "North Sydney",
+    "storeCount": 807,
+    "coffeeCount": 30,
+    "foodCount": 63,
+    "retailCount": 11,
+    "topSectors": [
+      {
+        "sector": "dine-in restaurant",
+        "count": 21
+      },
+      {
+        "sector": "cafes north sydney",
+        "count": 19
+      },
+      {
+        "sector": "take away food, pizza, fish & chips shops",
+        "count": 11
+      },
+      {
+        "sector": "restaurants & bistros",
+        "count": 10
+      }
+    ],
+    "topSubsectors": [
+      {
+        "sector": "corporate office",
+        "count": 136
+      },
+      {
+        "sector": "software company",
+        "count": 49
+      },
+      {
+        "sector": "cafe",
+        "count": 34
+      },
+      {
+        "sector": "restaurant",
+        "count": 32
+      },
+      {
+        "sector": "gym and fitness centre",
+        "count": 11
+      },
+      {
+        "sector": "business management consultant",
+        "count": 11
+      },
+      {
+        "sector": "counselor",
+        "count": 10
+      },
+      {
+        "sector": "construction company",
+        "count": 7
+      },
+      {
+        "sector": "clothing store",
+        "count": 7
+      }
+    ],
+    "insightBadge": "Balanced precinct",
+    "catchmentStoreCount": 1161,
+    "catchmentConfidence": 0.78,
+    "catchmentMethod": "text_to_zone_catchment",
+    "clusterId": 0,
+    "clusterLabel": "Balanced lifestyle precinct",
+    "clusterSummary": "Mixed-use catchment with stable trade support and versatile popup potential."
+  },
+  {
+    "zoneId": "st-leonards",
+    "suburb": "St Leonards",
+    "storeCount": 379,
+    "coffeeCount": 12,
+    "foodCount": 32,
+    "retailCount": 9,
+    "topSectors": [
+      {
+        "sector": "dine-in restaurant",
+        "count": 18
+      },
+      {
+        "sector": "gym / fitness / yoga",
+        "count": 12
+      },
+      {
+        "sector": "beauty salon / barber",
+        "count": 8
+      },
+      {
+        "sector": "cafes & snack bars",
+        "count": 7
+      }
+    ],
+    "topSubsectors": [
+      {
+        "sector": "corporate office",
+        "count": 24
+      },
+      {
+        "sector": "restaurant",
+        "count": 15
+      },
+      {
+        "sector": "cafe",
+        "count": 15
+      },
+      {
+        "sector": "hairdresser",
+        "count": 10
+      },
+      {
+        "sector": "software company",
+        "count": 8
+      },
+      {
+        "sector": "association / organization",
+        "count": 7
+      },
+      {
+        "sector": "beauty salon",
+        "count": 6
+      },
+      {
+        "sector": "counselor",
+        "count": 5
+      },
+      {
+        "sector": "hair salon",
+        "count": 5
+      }
+    ],
+    "insightBadge": "Balanced precinct",
+    "catchmentStoreCount": 1013,
+    "catchmentConfidence": 0.74,
+    "catchmentMethod": "text_to_zone_catchment",
+    "clusterId": 0,
+    "clusterLabel": "Balanced lifestyle precinct",
+    "clusterSummary": "Mixed-use catchment with stable trade support and versatile popup potential."
+  },
+  {
+    "zoneId": "macquarie-park",
+    "suburb": "Macquarie Park",
+    "storeCount": 473,
+    "coffeeCount": 11,
+    "foodCount": 27,
+    "retailCount": 60,
+    "topSectors": [
+      {
+        "sector": "fashion & accessories",
+        "count": 47
+      },
+      {
+        "sector": "dine-in restaurant",
+        "count": 16
+      },
+      {
+        "sector": "cafe & dessert",
+        "count": 9
+      },
+      {
+        "sector": "specialty retail",
+        "count": 8
+      }
+    ],
+    "topSubsectors": [
+      {
+        "sector": "corporate office",
+        "count": 33
+      },
+      {
+        "sector": "fashion",
+        "count": 30
+      },
+      {
+        "sector": "health & beauty",
+        "count": 27
+      },
+      {
+        "sector": "food & dining",
+        "count": 20
+      },
+      {
+        "sector": "retail services",
+        "count": 16
+      },
+      {
+        "sector": "cafe",
+        "count": 15
+      },
+      {
+        "sector": "software company",
+        "count": 12
+      },
+      {
+        "sector": "restaurant",
+        "count": 12
+      },
+      {
+        "sector": "beauty salon",
+        "count": 9
+      }
+    ],
+    "insightBadge": "Balanced precinct",
+    "catchmentStoreCount": 845,
+    "catchmentConfidence": 0.77,
+    "catchmentMethod": "text_to_zone_catchment",
+    "clusterId": 0,
+    "clusterLabel": "Balanced lifestyle precinct",
+    "clusterSummary": "Mixed-use catchment with stable trade support and versatile popup potential."
+  },
+  {
+    "zoneId": "redfern",
+    "suburb": "Redfern",
+    "storeCount": 376,
+    "coffeeCount": 13,
+    "foodCount": 41,
+    "retailCount": 36,
+    "topSectors": [
+      {
+        "sector": "dine-in restaurant",
+        "count": 31
+      },
+      {
+        "sector": "electronics & appliances",
+        "count": 11
+      },
+      {
+        "sector": "bar / pub / nightlife",
+        "count": 9
+      },
+      {
+        "sector": "cafe & dessert",
+        "count": 9
+      }
+    ],
+    "topSubsectors": [
+      {
+        "sector": "restaurant",
+        "count": 18
+      },
+      {
+        "sector": "cafe",
+        "count": 16
+      },
+      {
+        "sector": "bar",
+        "count": 9
+      },
+      {
+        "sector": "corporate office",
+        "count": 8
+      },
+      {
+        "sector": "shop",
+        "count": 7
+      },
+      {
+        "sector": "massage therapist",
+        "count": 5
+      },
+      {
+        "sector": "clothing store",
+        "count": 5
+      },
+      {
+        "sector": "art gallery",
+        "count": 4
+      },
+      {
+        "sector": "bakery",
+        "count": 4
+      }
+    ],
+    "insightBadge": "Balanced precinct",
+    "catchmentStoreCount": 1340,
+    "catchmentConfidence": 0.77,
+    "catchmentMethod": "text_to_zone_catchment",
+    "clusterId": 0,
+    "clusterLabel": "Balanced lifestyle precinct",
+    "clusterSummary": "Mixed-use catchment with stable trade support and versatile popup potential."
+  },
+  {
+    "zoneId": "surry-hills",
+    "suburb": "Surry Hills",
+    "storeCount": 1342,
+    "coffeeCount": 45,
+    "foodCount": 214,
+    "retailCount": 118,
+    "topSectors": [
+      {
+        "sector": "dine-in restaurant",
+        "count": 113
+      },
+      {
+        "sector": "electronics & appliances",
+        "count": 43
+      },
+      {
+        "sector": "restaurants",
+        "count": 42
+      },
+      {
+        "sector": "beauty salon / barber",
+        "count": 33
+      }
+    ],
+    "topSubsectors": [
+      {
+        "sector": "restaurant",
+        "count": 70
+      },
+      {
+        "sector": "cafe",
+        "count": 46
+      },
+      {
+        "sector": "corporate office",
+        "count": 41
+      },
+      {
+        "sector": "clothing store",
+        "count": 39
+      },
+      {
+        "sector": "hairdresser",
+        "count": 27
+      },
+      {
+        "sector": "hair salon",
+        "count": 25
+      },
+      {
+        "sector": "bar",
+        "count": 21
+      },
+      {
+        "sector": "counselor",
+        "count": 20
+      },
+      {
+        "sector": "restaurants",
+        "count": 16
+      }
+    ],
+    "insightBadge": "Dense store cluster",
+    "catchmentStoreCount": 1560,
+    "catchmentConfidence": 0.8,
+    "catchmentMethod": "text_to_zone_catchment",
+    "clusterId": 0,
+    "clusterLabel": "Balanced lifestyle precinct",
+    "clusterSummary": "Mixed-use catchment with stable trade support and versatile popup potential."
+  },
+  {
+    "zoneId": "haymarket",
+    "suburb": "Haymarket",
+    "storeCount": 659,
+    "coffeeCount": 17,
+    "foodCount": 114,
+    "retailCount": 40,
+    "topSectors": [
+      {
+        "sector": "dine-in restaurant",
+        "count": 78
+      },
+      {
+        "sector": "cafe & dessert",
+        "count": 15
+      },
+      {
+        "sector": "fashion & accessories",
+        "count": 13
+      },
+      {
+        "sector": "beauty salon / barber",
+        "count": 11
+      }
+    ],
+    "topSubsectors": [
+      {
+        "sector": "restaurant",
+        "count": 46
+      },
+      {
+        "sector": "thai restaurant",
+        "count": 19
+      },
+      {
+        "sector": "corporate office",
+        "count": 17
+      },
+      {
+        "sector": "beauty salon",
+        "count": 15
+      },
+      {
+        "sector": "chinese restaurant",
+        "count": 12
+      },
+      {
+        "sector": "cafe",
+        "count": 10
+      },
+      {
+        "sector": "korean restaurant",
+        "count": 10
+      },
+      {
+        "sector": "massage therapist",
+        "count": 10
+      },
+      {
+        "sector": "shop",
+        "count": 9
+      }
+    ],
+    "insightBadge": "Balanced precinct",
+    "catchmentStoreCount": 659,
+    "catchmentConfidence": 0.0,
+    "catchmentMethod": "text_to_zone_catchment",
+    "clusterId": 0,
+    "clusterLabel": "Balanced lifestyle precinct",
+    "clusterSummary": "Mixed-use catchment with stable trade support and versatile popup potential."
+  },
+  {
+    "zoneId": "darling-harbour",
+    "suburb": "Darling Harbour",
+    "storeCount": 6,
+    "coffeeCount": 0,
+    "foodCount": 1,
+    "retailCount": 0,
+    "topSectors": [
+      {
+        "sector": "dine-in restaurant",
+        "count": 1
+      }
+    ],
+    "topSubsectors": [
+      {
+        "sector": "restaurant",
+        "count": 2
+      },
+      {
+        "sector": "hotel bar restaurant supplies",
+        "count": 1
+      },
+      {
+        "sector": "catering",
+        "count": 1
+      },
+      {
+        "sector": "cosmetic store",
+        "count": 1
+      },
+      {
+        "sector": "breakfast restaurant",
+        "count": 1
+      }
+    ],
+    "insightBadge": "Emerging pocket",
+    "catchmentStoreCount": 6,
+    "catchmentConfidence": 0.0,
+    "catchmentMethod": "text_to_zone_catchment",
+    "clusterId": 0,
+    "clusterLabel": "Balanced lifestyle precinct",
+    "clusterSummary": "Mixed-use catchment with stable trade support and versatile popup potential."
+  },
+  {
+    "zoneId": "pyrmont",
+    "suburb": "Pyrmont",
+    "storeCount": 405,
+    "coffeeCount": 6,
+    "foodCount": 46,
+    "retailCount": 25,
+    "topSectors": [
+      {
+        "sector": "dine-in restaurant",
+        "count": 38
+      },
+      {
+        "sector": "it / design / creative agency",
+        "count": 13
+      },
+      {
+        "sector": "beauty salon / barber",
+        "count": 11
+      },
+      {
+        "sector": "electronics & appliances",
+        "count": 10
+      }
+    ],
+    "topSubsectors": [
+      {
+        "sector": "restaurant",
+        "count": 24
+      },
+      {
+        "sector": "corporate office",
+        "count": 22
+      },
+      {
+        "sector": "cafe",
+        "count": 20
+      },
+      {
+        "sector": "beauty salon",
+        "count": 11
+      },
+      {
+        "sector": "shop",
+        "count": 8
+      },
+      {
+        "sector": "software company",
+        "count": 6
+      },
+      {
+        "sector": "nail salon",
+        "count": 6
+      },
+      {
+        "sector": "computer, pc software",
+        "count": 5
+      },
+      {
+        "sector": "marketing agency",
+        "count": 5
+      }
+    ],
+    "insightBadge": "Balanced precinct",
+    "catchmentStoreCount": 405,
+    "catchmentConfidence": 0.0,
+    "catchmentMethod": "text_to_zone_catchment",
+    "clusterId": 0,
+    "clusterLabel": "Balanced lifestyle precinct",
+    "clusterSummary": "Mixed-use catchment with stable trade support and versatile popup potential."
+  },
+  {
+    "zoneId": "green-square",
+    "suburb": "Zetland",
+    "storeCount": 178,
+    "coffeeCount": 7,
+    "foodCount": 24,
+    "retailCount": 11,
+    "topSectors": [
+      {
+        "sector": "dine-in restaurant",
+        "count": 16
+      },
+      {
+        "sector": "beauty salon / barber",
+        "count": 9
+      },
+      {
+        "sector": "quick-service / takeaway",
+        "count": 4
+      },
+      {
+        "sector": "cafe & dessert",
+        "count": 4
+      }
+    ],
+    "topSubsectors": [
+      {
+        "sector": "restaurant",
+        "count": 7
+      },
+      {
+        "sector": "corporate office",
+        "count": 7
+      },
+      {
+        "sector": "cafe",
+        "count": 6
+      },
+      {
+        "sector": "barber shop",
+        "count": 6
+      },
+      {
+        "sector": "chinese restaurant",
+        "count": 4
+      },
+      {
+        "sector": "beauty salon",
+        "count": 4
+      },
+      {
+        "sector": "thai restaurant",
+        "count": 3
+      },
+      {
+        "sector": "bakery",
+        "count": 3
+      },
+      {
+        "sector": "pet shop",
+        "count": 3
+      }
+    ],
+    "insightBadge": "Emerging pocket",
+    "catchmentStoreCount": 777,
+    "catchmentConfidence": 0.73,
+    "catchmentMethod": "text_to_zone_catchment",
+    "clusterId": 0,
+    "clusterLabel": "Balanced lifestyle precinct",
+    "clusterSummary": "Mixed-use catchment with stable trade support and versatile popup potential."
+  },
+  {
+    "zoneId": "mascot",
+    "suburb": "Mascot",
+    "storeCount": 444,
+    "coffeeCount": 17,
+    "foodCount": 53,
+    "retailCount": 16,
+    "topSectors": [
+      {
+        "sector": "dine-in restaurant",
+        "count": 39
+      },
+      {
+        "sector": "cafe & dessert",
+        "count": 15
+      },
+      {
+        "sector": "automotive services",
+        "count": 12
+      },
+      {
+        "sector": "gym / fitness / yoga",
+        "count": 9
+      }
+    ],
+    "topSubsectors": [
+      {
+        "sector": "corporate office",
+        "count": 24
+      },
+      {
+        "sector": "restaurant",
+        "count": 19
+      },
+      {
+        "sector": "car rental agency",
+        "count": 14
+      },
+      {
+        "sector": "cafe",
+        "count": 13
+      },
+      {
+        "sector": "clothing store",
+        "count": 7
+      },
+      {
+        "sector": "parking lot",
+        "count": 6
+      },
+      {
+        "sector": "fashion accessories store",
+        "count": 6
+      },
+      {
+        "sector": "fast food restaurant",
+        "count": 4
+      },
+      {
+        "sector": "software company",
+        "count": 4
+      }
+    ],
+    "insightBadge": "Balanced precinct",
+    "catchmentStoreCount": 444,
+    "catchmentConfidence": 0.0,
+    "catchmentMethod": "text_to_zone_catchment",
+    "clusterId": 0,
+    "clusterLabel": "Balanced lifestyle precinct",
+    "clusterSummary": "Mixed-use catchment with stable trade support and versatile popup potential."
+  },
+  {
+    "zoneId": "newtown",
+    "suburb": "Newtown",
+    "storeCount": 709,
+    "coffeeCount": 17,
+    "foodCount": 141,
+    "retailCount": 33,
+    "topSectors": [
+      {
+        "sector": "dine-in restaurant",
+        "count": 65
+      },
+      {
+        "sector": "restaurants",
+        "count": 26
+      },
+      {
+        "sector": "takeaways",
+        "count": 19
+      },
+      {
+        "sector": "bar / pub / nightlife",
+        "count": 16
+      }
+    ],
+    "topSubsectors": [
+      {
+        "sector": "restaurant",
+        "count": 52
+      },
+      {
+        "sector": "cafe",
+        "count": 17
+      },
+      {
+        "sector": "clothing store",
+        "count": 17
+      },
+      {
+        "sector": "massage therapist",
+        "count": 13
+      },
+      {
+        "sector": "hair salon",
+        "count": 12
+      },
+      {
+        "sector": "bar",
+        "count": 11
+      },
+      {
+        "sector": "counselor",
+        "count": 10
+      },
+      {
+        "sector": "shop",
+        "count": 9
+      },
+      {
+        "sector": "barber shop",
+        "count": 8
+      }
+    ],
+    "insightBadge": "Balanced precinct",
+    "catchmentStoreCount": 1250,
+    "catchmentConfidence": 0.79,
+    "catchmentMethod": "text_to_zone_catchment",
+    "clusterId": 0,
+    "clusterLabel": "Balanced lifestyle precinct",
+    "clusterSummary": "Mixed-use catchment with stable trade support and versatile popup potential."
+  },
+  {
+    "zoneId": "marrickville",
+    "suburb": "Marrickville",
+    "storeCount": 994,
+    "coffeeCount": 26,
+    "foodCount": 86,
+    "retailCount": 60,
+    "topSectors": [
+      {
+        "sector": "dine-in restaurant",
+        "count": 49
+      },
+      {
+        "sector": "fashion & accessories",
+        "count": 23
+      },
+      {
+        "sector": "cafe & dessert",
+        "count": 19
+      },
+      {
+        "sector": "takeaways",
+        "count": 16
+      }
+    ],
+    "topSubsectors": [
+      {
+        "sector": "restaurant",
+        "count": 41
+      },
+      {
+        "sector": "clothing store",
+        "count": 28
+      },
+      {
+        "sector": "cafe",
+        "count": 21
+      },
+      {
+        "sector": "hair salon",
+        "count": 17
+      },
+      {
+        "sector": "health & beauty",
+        "count": 16
+      },
+      {
+        "sector": "retail services",
+        "count": 13
+      },
+      {
+        "sector": "bar",
+        "count": 13
+      },
+      {
+        "sector": "bakery",
+        "count": 12
+      },
+      {
+        "sector": "corporate office",
+        "count": 12
+      }
+    ],
+    "insightBadge": "Dense store cluster",
+    "catchmentStoreCount": 1479,
+    "catchmentConfidence": 0.78,
+    "catchmentMethod": "text_to_zone_catchment",
+    "clusterId": 0,
+    "clusterLabel": "Balanced lifestyle precinct",
+    "clusterSummary": "Mixed-use catchment with stable trade support and versatile popup potential."
+  },
+  {
+    "zoneId": "bondi-junction",
+    "suburb": "Bondi Junction",
+    "storeCount": 678,
+    "coffeeCount": 11,
+    "foodCount": 19,
+    "retailCount": 50,
+    "topSectors": [
+      {
+        "sector": "fashion & accessories",
+        "count": 36
+      },
+      {
+        "sector": "gym / fitness / yoga",
+        "count": 25
+      },
+      {
+        "sector": "beauty salon / barber",
+        "count": 25
+      },
+      {
+        "sector": "dine-in restaurant",
+        "count": 16
+      }
+    ],
+    "topSubsectors": [
+      {
+        "sector": "counselor",
+        "count": 43
+      },
+      {
+        "sector": "beauty salon",
+        "count": 30
+      },
+      {
+        "sector": "corporate office",
+        "count": 26
+      },
+      {
+        "sector": "massage therapist",
+        "count": 20
+      },
+      {
+        "sector": "personal trainer",
+        "count": 19
+      },
+      {
+        "sector": "hair salon",
+        "count": 16
+      },
+      {
+        "sector": "hairdresser",
+        "count": 14
+      },
+      {
+        "sector": "clothing store",
+        "count": 12
+      },
+      {
+        "sector": "cafe",
+        "count": 11
+      },
+      {
+        "sector": "physical therapist",
+        "count": 10
+      }
+    ],
+    "insightBadge": "Balanced precinct",
+    "catchmentStoreCount": 1135,
+    "catchmentConfidence": 0.77,
+    "catchmentMethod": "text_to_zone_catchment",
+    "clusterId": 0,
+    "clusterLabel": "Balanced lifestyle precinct",
+    "clusterSummary": "Mixed-use catchment with stable trade support and versatile popup potential."
+  },
+  {
+    "zoneId": "burwood",
+    "suburb": "Burwood",
+    "storeCount": 779,
+    "coffeeCount": 22,
+    "foodCount": 84,
+    "retailCount": 46,
+    "topSectors": [
+      {
+        "sector": "dine-in restaurant",
+        "count": 53
+      },
+      {
+        "sector": "fashion & accessories",
+        "count": 28
+      },
+      {
+        "sector": "cafe & dessert",
+        "count": 16
+      },
+      {
+        "sector": "beauty salon / barber",
+        "count": 15
+      }
+    ],
+    "topSubsectors": [
+      {
+        "sector": "restaurant",
+        "count": 33
+      },
+      {
+        "sector": "chinese restaurant",
+        "count": 25
+      },
+      {
+        "sector": "beauty salon",
+        "count": 18
+      },
+      {
+        "sector": "nail salon",
+        "count": 16
+      },
+      {
+        "sector": "massage therapist",
+        "count": 15
+      },
+      {
+        "sector": "skin care clinic",
+        "count": 14
+      },
+      {
+        "sector": "hair salon",
+        "count": 14
+      },
+      {
+        "sector": "cafe",
+        "count": 13
+      },
+      {
+        "sector": "women's clothing store",
+        "count": 13
+      }
+    ],
+    "insightBadge": "Balanced precinct",
+    "catchmentStoreCount": 1550,
+    "catchmentConfidence": 0.7,
+    "catchmentMethod": "text_to_zone_catchment",
+    "clusterId": 0,
+    "clusterLabel": "Balanced lifestyle precinct",
+    "clusterSummary": "Mixed-use catchment with stable trade support and versatile popup potential."
+  },
+  {
+    "zoneId": "strathfield",
+    "suburb": "Strathfield",
+    "storeCount": 351,
+    "coffeeCount": 6,
+    "foodCount": 47,
+    "retailCount": 19,
+    "topSectors": [
+      {
+        "sector": "dine-in restaurant",
+        "count": 33
+      },
+      {
+        "sector": "beauty salon / barber",
+        "count": 10
+      },
+      {
+        "sector": "international restaurant",
+        "count": 6
+      },
+      {
+        "sector": "gym / fitness / yoga",
+        "count": 5
+      }
+    ],
+    "topSubsectors": [
+      {
+        "sector": "restaurant",
+        "count": 19
+      },
+      {
+        "sector": "korean restaurant",
+        "count": 15
+      },
+      {
+        "sector": "cafe",
+        "count": 12
+      },
+      {
+        "sector": "counselor",
+        "count": 9
+      },
+      {
+        "sector": "hairdresser",
+        "count": 7
+      },
+      {
+        "sector": "clothing store",
+        "count": 7
+      },
+      {
+        "sector": "corporate office",
+        "count": 7
+      },
+      {
+        "sector": "beauty salon",
+        "count": 6
+      },
+      {
+        "sector": "food",
+        "count": 5
+      }
+    ],
+    "insightBadge": "Balanced precinct",
+    "catchmentStoreCount": 351,
+    "catchmentConfidence": 0.0,
+    "catchmentMethod": "text_to_zone_catchment",
+    "clusterId": 0,
+    "clusterLabel": "Balanced lifestyle precinct",
+    "clusterSummary": "Mixed-use catchment with stable trade support and versatile popup potential."
+  },
+  {
+    "zoneId": "rhodes",
+    "suburb": "Rhodes",
+    "storeCount": 257,
+    "coffeeCount": 9,
+    "foodCount": 27,
+    "retailCount": 7,
+    "topSectors": [
+      {
+        "sector": "dine-in restaurant",
+        "count": 20
+      },
+      {
+        "sector": "beauty salon / barber",
+        "count": 10
+      },
+      {
+        "sector": "gym / fitness / yoga",
+        "count": 6
+      },
+      {
+        "sector": "cafa & dessert",
+        "count": 5
+      }
+    ],
+    "topSubsectors": [
+      {
+        "sector": "restaurant",
+        "count": 14
+      },
+      {
+        "sector": "corporate office",
+        "count": 13
+      },
+      {
+        "sector": "beauty salon",
+        "count": 11
+      },
+      {
+        "sector": "bubble tea store",
+        "count": 5
+      },
+      {
+        "sector": "nail salon",
+        "count": 5
+      },
+      {
+        "sector": "gym",
+        "count": 4
+      },
+      {
+        "sector": "clothing store",
+        "count": 4
+      },
+      {
+        "sector": "physical therapist",
+        "count": 4
+      },
+      {
+        "sector": "bakery",
+        "count": 4
+      }
+    ],
+    "insightBadge": "Emerging pocket",
+    "catchmentStoreCount": 1034,
+    "catchmentConfidence": 0.73,
+    "catchmentMethod": "text_to_zone_catchment",
+    "clusterId": 0,
+    "clusterLabel": "Balanced lifestyle precinct",
+    "clusterSummary": "Mixed-use catchment with stable trade support and versatile popup potential."
+  },
+  {
+    "zoneId": "hurstville",
+    "suburb": "Hurstville",
+    "storeCount": 647,
+    "coffeeCount": 23,
+    "foodCount": 60,
+    "retailCount": 39,
+    "topSectors": [
+      {
+        "sector": "dine-in restaurant",
+        "count": 30
+      },
+      {
+        "sector": "cafe & dessert",
+        "count": 20
+      },
+      {
+        "sector": "fashion & accessories",
+        "count": 19
+      },
+      {
+        "sector": "quick-service / takeaway",
+        "count": 12
+      }
+    ],
+    "topSubsectors": [
+      {
+        "sector": "restaurant",
+        "count": 30
+      },
+      {
+        "sector": "hair salon",
+        "count": 16
+      },
+      {
+        "sector": "cafe",
+        "count": 14
+      },
+      {
+        "sector": "corporate office",
+        "count": 14
+      },
+      {
+        "sector": "hairdresser",
+        "count": 10
+      },
+      {
+        "sector": "nail salon",
+        "count": 9
+      },
+      {
+        "sector": "jewelry store",
+        "count": 7
+      },
+      {
+        "sector": "dental clinic",
+        "count": 6
+      },
+      {
+        "sector": "fast food restaurant",
+        "count": 6
+      }
+    ],
+    "insightBadge": "Balanced precinct",
+    "catchmentStoreCount": 647,
+    "catchmentConfidence": 0.0,
+    "catchmentMethod": "text_to_zone_catchment",
+    "clusterId": 0,
+    "clusterLabel": "Balanced lifestyle precinct",
+    "clusterSummary": "Mixed-use catchment with stable trade support and versatile popup potential."
+  },
+  {
+    "zoneId": "leichhardt",
+    "suburb": "Leichhardt",
+    "storeCount": 457,
+    "coffeeCount": 13,
+    "foodCount": 51,
+    "retailCount": 9,
+    "topSectors": [
+      {
+        "sector": "dine-in restaurant",
+        "count": 27
+      },
+      {
+        "sector": "beauty salon / barber",
+        "count": 16
+      },
+      {
+        "sector": "gym / fitness / yoga",
+        "count": 12
+      },
+      {
+        "sector": "takeaways",
+        "count": 10
+      }
+    ],
+    "topSubsectors": [
+      {
+        "sector": "restaurant",
+        "count": 21
+      },
+      {
+        "sector": "counselor",
+        "count": 14
+      },
+      {
+        "sector": "cafe",
+        "count": 12
+      },
+      {
+        "sector": "italian restaurant",
+        "count": 12
+      },
+      {
+        "sector": "hair salon",
+        "count": 10
+      },
+      {
+        "sector": "beauty salon",
+        "count": 9
+      },
+      {
+        "sector": "massage therapist",
+        "count": 7
+      },
+      {
+        "sector": "bridal shop",
+        "count": 7
+      },
+      {
+        "sector": "fitness center",
+        "count": 6
+      }
+    ],
+    "insightBadge": "Balanced precinct",
+    "catchmentStoreCount": 457,
+    "catchmentConfidence": 0.0,
+    "catchmentMethod": "text_to_zone_catchment",
+    "clusterId": 0,
+    "clusterLabel": "Balanced lifestyle precinct",
+    "clusterSummary": "Mixed-use catchment with stable trade support and versatile popup potential."
+  }
+]

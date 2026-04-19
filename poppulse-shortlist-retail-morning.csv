@@ -1,0 +1,7 @@
+id,name,suburb,score,reasons
+wynyard,Wynyard,Sydney CBD,66.8,"High morning footfall; Low retail competition; Strong tourist presence"
+parramatta,Parramatta,Parramatta,65.6,"High morning footfall; Strong shopping presence; Good complementarity for retail trade"
+town-hall,Town Hall,Sydney CBD,65.0,"High morning footfall; Strong shopping presence; Good complementarity for retail trade"
+chatswood,Chatswood,Chatswood,60.9,"Strong shopping presence; Good complementarity for retail trade"
+central-station,Central Station,Haymarket,60.6,"High morning footfall; Strong office presence"
+circular-quay,Circular Quay,Circular Quay,60.4,"Strong shopping presence; Good complementarity for retail trade"

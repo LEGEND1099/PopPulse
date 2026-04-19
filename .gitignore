@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+env/
+
+# Next.js / Node
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+
+# Local logs
+*.log
+frontend/dev-server.log
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Large raw data
+analytics/data/raw/
+analytics/data/interim/
+analytics/data/processed/
+
+# Optional notebook noise
+.ipynb_checkpoints/
